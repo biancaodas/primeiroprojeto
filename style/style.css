@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+
+body{
+    background-color: #E8DAB2;
+    font-family: 'Raleway';
+}
+
+header{
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+
+.bemvindo{
+    font-size: 36px;
+    padding-top: 50px;
+    font-style: italic;
+}
+
+.petshop{
+    font-size: 62px;
+}
+
+.image{
+    width: 370px;
+    right: 192px;
+    display: flex;
+}
+
+.-right{
+    float: right;
+}
+
+#main-container{
+    width: 800px;
+    box-sizing: border-box;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 34px;
+    padding-left: 24px;
+    padding-bottom: 70px;
+    padding-right: 24px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 7px 7px rgb(131, 131, 131);
+}
+
+.image2{
+    width: 750px;
+    right: 750px;
+    display: flex;
+}
+
+.video{
+    width: 750px;
+    right: 750px;
+    display: flex;
+}
+
+footer{
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 25% 100%;
+    font-size: 20px;
+}
+
+.footer{
+    color: #ffffff;
+    text-align: right;
+}
+
+a{
+    color: #35b1d2;
+    text-decoration: none;
+}
